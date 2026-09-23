@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="glass_bg">#80FFFFFF</color>
+    <color name="glass_border">#40FFFFFF</color>
+    <color name="primary">#007AFF</color>
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="mode_cool">#00D4FF</color>
+    <color name="mode_eco">#34C759</color>
+    <color name="mode_balanced">#FF9500</color>
+    <color name="mode_performance">#FF3B30</color>
+    <color name="mode_beast">#AF52DE</color>
+</resources>
